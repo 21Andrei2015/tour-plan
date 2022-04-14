@@ -1,4 +1,6 @@
 const mySwiper = new Swiper('.swiper-container', {
+  speed: 1000,
+  spaceBetween: 100,
   // Optional parameters
   loop: true,
 
